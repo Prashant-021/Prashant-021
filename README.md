@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prashant Patel
 - 👀 I’m interested in web develpoment and Application development
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning ReactJS
 - 📫 How to reach me pspatel021@gmail.com
 
 <!---
